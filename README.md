@@ -1,2 +1,2 @@
 # python-bootcamp-i.t.s.
-this is for python
+this is for python learner
